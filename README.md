@@ -1,6 +1,6 @@
 # Hi, I'm Mini2023 👋
 
-I'm a student from Germany interested in programming, artificial intelligence and computer hardware.
+I'm Edward, a student from Germany interested in programming, artificial intelligence and computer hardware.
 
 ## 🔬 Current Interests
 
